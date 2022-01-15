@@ -9,4 +9,4 @@ git remote set-url origin https://<your_token>@github.com/<USERNAME>/<REPO>.git
 <USERNAME>：是你自己github的用户名
 <REPO>：是你的仓库名称
 
-git remote set-url origin https://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@github.com/1004879671@qq.com/https://github.com/1004879671/red-book.git
+git remote set-url origin https://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@github.com/1004879671/red-book.git
