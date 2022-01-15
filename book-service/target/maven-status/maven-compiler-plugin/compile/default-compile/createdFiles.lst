@@ -1,0 +1,6 @@
+com\ccty\service\MsgService.class
+com\ccty\service\FansService.class
+com\ccty\service\CommentService.class
+com\ccty\base\BaseInfoProperties.class
+com\ccty\service\UserService.class
+com\ccty\service\VlogService.class

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/book-api/book-api.iml" filepath="$PROJECT_DIR$/book-api/book-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-common/book-common.iml" filepath="$PROJECT_DIR$/book-common/book-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-mapper/book-mapper.iml" filepath="$PROJECT_DIR$/book-mapper/book-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-model/book-model.iml" filepath="$PROJECT_DIR$/book-model/book-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/book-service/book-service.iml" filepath="$PROJECT_DIR$/book-service/book-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-generator-for-imooc/mybatis-generator-for-imooc.iml" filepath="$PROJECT_DIR$/mybatis-generator-for-imooc/mybatis-generator-for-imooc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/red-book.iml" filepath="$PROJECT_DIR$/red-book.iml" />
+    </modules>
+  </component>
+</project>
