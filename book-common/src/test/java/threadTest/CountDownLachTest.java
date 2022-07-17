@@ -8,6 +8,8 @@ public class CountDownLachTest {
         Thread[] threads = new Thread[100];
         CountDownLatch countDownLatch = new CountDownLatch(threads.length);
 
+
+
         for (int i=0;i<threads.length;i++){
             threads[i] = new Thread(() -> {
                 System.out.println("线程countDown..");
@@ -16,6 +18,7 @@ public class CountDownLachTest {
         }
 
         for(int i=0;i<threads.length;i++){
+            System.out.println("----threads["+ i + "]start---");
             threads[i].start();
         }
 

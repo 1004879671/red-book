@@ -1,6 +1,10 @@
+com\ccty\mapper\FansMapperCustom.class
 com\ccty\mapper\VlogMapper.class
+com\ccty\mapper\VlogMapperCustom.class
 com\ccty\mapper\MyLikedVlogMapper.class
+com\ccty\mapper\CommentMapperCustom.class
 com\ccty\mapper\UsersMapper.class
 com\ccty\mapper\CommentMapper.class
 com\ccty\my\mapper\MyMapper.class
+com\ccty\repository\MessageRepository.class
 com\ccty\mapper\FansMapper.class

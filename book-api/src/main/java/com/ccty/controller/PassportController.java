@@ -50,9 +50,10 @@ public class PassportController extends BaseInfoProperties {
         redis.setnx60s(MOBILE_SMSCODE + ":" + userIp, userIp);
         log.info(userIp);
 
-        String code = (int)((Math.random() * 9 + 1) * 100000) + "";
-        //本地测试先写死验证码
+//        String code = (int)((Math.random() * 9 + 1) * 100000) + "";
 //        smsUtils.sendSMS(mobile, code);
+        //本地测试先写死验证码
+        String code = "123456";
         log.info(code);
 
         // 把验证码放入到redis中，用于后续的验证

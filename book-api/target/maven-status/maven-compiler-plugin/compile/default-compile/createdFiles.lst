@@ -1,0 +1,12 @@
+com\ccty\controller\FileController.class
+com\ccty\controller\PassportController.class
+com\ccty\intercepter\PassportInterceptor.class
+com\ccty\controller\CommentController.class
+com\ccty\controller\HelloController.class
+com\ccty\controller\VlogController.class
+com\ccty\Application.class
+com\ccty\MinIOConfig.class
+com\ccty\InterceptorConfig.class
+com\ccty\controller\UserInfoController.class
+com\ccty\Knife4jConfig.class
+com\ccty\controller\MsgController.class

@@ -1,2 +1,12 @@
+com\ccty\pojo\Fans.class
+com\ccty\mapper\VlogMapper.class
+com\ccty\pojo\Comment.class
 com\imooc\mybatis\utils\GeneratorDisplay.class
+com\ccty\mapper\MyLikedVlogMapper.class
+com\ccty\mapper\UsersMapper.class
+com\ccty\mapper\CommentMapper.class
 com\imooc\my\mapper\mapper\MyMapper.class
+com\ccty\pojo\Vlog.class
+com\ccty\pojo\MyLikedVlog.class
+com\ccty\pojo\Users.class
+com\ccty\mapper\FansMapper.class

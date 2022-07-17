@@ -4,7 +4,7 @@ import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;
 import java.util.concurrent.atomic.AtomicInteger;
 
-public class CyclicBrrier01 {
+public class CyclicBrrierTest {
 
     public static void main(String[] args) {
         CyclicBarrier cb = new CyclicBarrier(20, new Runnable() {
